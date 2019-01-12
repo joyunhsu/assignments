@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Assignment 2. Swift Basics'/>
+        <page name='Assignment 3. Collection'/>
+        <page name='Assignment 3. Control Flow'/>
+        <page name='Assignment 4. Functions in Swift'/>
+    </pages>
+</playground>
