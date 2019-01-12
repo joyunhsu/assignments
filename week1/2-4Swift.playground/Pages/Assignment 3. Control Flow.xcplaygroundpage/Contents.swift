@@ -5,7 +5,7 @@ for i in 3...5 {
     print(lottoNumbers[i])
 }
 
-//2 For-in loop
+//2 
 
 
 //3 While loop
