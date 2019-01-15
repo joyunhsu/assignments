@@ -5,8 +5,14 @@ for i in 3...5 {
     print(lottoNumbers[i])
 }
 
-//2 
+//2 For-In Loop
+for index in stride(from: 5, through: 0, by: -1) {
+    print(lottoNumbers[index])
+}
 
+for index in stride(from: 0, through: 5, by: 2) {
+    print(lottoNumbers[index])
+}
 
 //3 While loop
 var lastIndex = lottoNumbers.count - 1
